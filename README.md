@@ -5,7 +5,7 @@ I'm Sathesh Rgs. Full Stack Software Engineer with 5+ years of professional expe
 
 ## About me
 
-<img align="right" width="300" height="300" src="https://raw.githubusercontent.com/satheshrgs/satheshrgs/initial/assets/bitmoji.jpeg">
+<img align="right" width="300" height="300" src="https://github.com/satheshrgs/satheshrgs/blob/c1cebc632918660d72601cf8ee3ea115e9288dd5/assets/bitmoji.jpeg">
 
 
 - 🔭 I’m currently working as Software Development Engineer II at [Upstox](https://upstox.com/)
