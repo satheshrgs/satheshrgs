@@ -1,7 +1,5 @@
 <img align="center" width="300" height="300" src="https://github.com/satheshrgs/satheshrgs/blob/b9f962b63be47a4ee1daa1bace53d669e6f8ea78/assets/bitmoji.gif">
 
----
-
 ### Hi there 👋
 I'm Sathesh Rgs. Full Stack Software Engineer with 5+ years of professional experience in developing web and mobile applications.
 
