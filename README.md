@@ -70,14 +70,9 @@ I'm Sathesh Rgs. Full Stack Software Engineer with 5+ years of professional expe
 
 # Stats
 
-| ![Pranshu Patel's github stats](https://github-readme-stats.vercel.app/api?username=satheshrgs&theme=default&hide_border=false&include_all_commits=true&count_private=true) | ![Sathesh Rgs's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=satheshrgs&theme=default&hide_border=false&include_all_commits=true&count_private=true) |
+| ![Sathesh Rgs's github stats](https://github-readme-stats.vercel.app/api?username=satheshrgs&theme=default&hide_border=false&include_all_commits=true&count_private=true) | ![Sathesh Rgs's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=satheshrgs&theme=default&hide_border=false&include_all_commits=true&count_private=true) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satheshrgs&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | ![Github Trophy](https://github-profile-trophy.vercel.app/?username=satheshrgs&include_all_commits=true&count_private=true) |
-
----
-
-<img align="right" width="150" src="https://user-images.githubusercontent.com/70943732/209951571-93b7afe5-f523-4683-b725-5d94b287e94e.png">
-
 <div align="center">
    <img src="https://visitcount.itsvg.in/api?id=satheshrgs&icon=0&color=0">
 </div>
